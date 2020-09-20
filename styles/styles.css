@@ -1,25 +1,13 @@
-body {
-  background-color: lightblue;
+/* body {
+  background-color: lavender;
   margin: 3rem auto;
   max-width: 800px;
-}
-
-blockquote {
-  font-family: 'Kufam', bold;
-}
-
-/* Style the header with a grey background and some padding */
-.header {
-  overflow: hidden;
-  /* background-color: #f1f1f1; */
-  padding: 20px 10px;
-  border-radius: 25px;
-}
+} */
 
 /* Style the header links */
 .header a {
   float: left;
-  color: black;
+  /* color: black; */
   text-align: center;
   padding: 12px;
   text-decoration: none;
@@ -39,7 +27,7 @@ blockquote {
 /* Change the background color on mouse-over */
 .header a:hover {
   background-color: #ddd;
-  color: black;
+  /* color: black;   */
 }
 
 /* Style the active/current link*/
@@ -47,11 +35,6 @@ blockquote {
   /* background-color: dodgerblue; */
   text-decoration: underline;
   /* color: white; */
-}
-
-/* Float the link section to the right */
-.header-right {
-  float: right;
 }
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
