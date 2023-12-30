@@ -8,6 +8,8 @@ entries:
         url: https://instagram.com/ashmeetey/
       - title: twitter
         url: https://twitter.com/ashmeetey
+      - title: spotify
+        url: https://open.spotify.com/user/nashady
 
   - title: latest posts
     post_list:
@@ -26,7 +28,7 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: About
     entries:
       - title: with subitems
         entries:
